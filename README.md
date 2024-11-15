@@ -7,3 +7,9 @@
 ChatGPT => took less than 30 seconds, score is 0.779 
 
 Follow someone else => took more than an hour, code still running
+
+F-16 Structural Senior Engineer 
+
+Enjoy learning hacking for prevention and gaming
+
+Still not sure about the future.
